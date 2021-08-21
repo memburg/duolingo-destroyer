@@ -4,3 +4,4 @@ This project is being built using TypeScript, WebDriverIO, Mocha, and NodeJS.
 
 TODOS:
 - [x] Project setup
+- [-] POMs
