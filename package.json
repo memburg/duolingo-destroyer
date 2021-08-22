@@ -4,7 +4,8 @@
   "description": "a tool to destroy duolingo",
   "main": "index.js",
   "scripts": {
-    "start": "npx wdio run wdio.conf.ts"
+    "destroy": "npx wdio run ./wdio.conf.ts --spec destroy.e2e.ts",
+    "translate": "npx wdio run ./wdio.conf.ts --spec translate.e2e.ts"
   },
   "keywords": [
     "automation",

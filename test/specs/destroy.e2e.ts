@@ -1,4 +1,4 @@
-import StartPage from '../pageobjects/start.page';
+import StartPage from '../pageobjects/duolingo/start.page';
 
 describe("Enemy's fortress", () => {
     it('should circumvent security', async () => {
